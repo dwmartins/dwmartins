@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Douglas Martins 
 -  🧑‍💻 Cursando Analise e Desenvolvimento de Sistemas
 -  🧑‍💻 Estudando Desenvolvimetno Web
--  👨‍🎓 Estudando de Inglês avançado
+-  👨‍🎓 Estudando Inglês avançado
 -  😄 Pronouns: Ele/Dele
 -  
 
