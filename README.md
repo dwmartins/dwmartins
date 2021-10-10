@@ -3,7 +3,6 @@
 -  🧑‍💻 Estudando Desenvolvimetno Web
 -  👨‍🎓 Estudando Inglês avançado
 -  😄 Pronouns: Ele/Dele
--  
 
 <div align="center">
   <a href="https://github.com/dwmartins">
