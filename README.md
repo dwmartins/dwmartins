@@ -1,9 +1,23 @@
-## Olá! Eu sou o Douglas Martins 
--  🧑‍💻 Cursando Analise e Desenvolvimento de Sistemas
--  🧑‍💻 Estudando Desenvolvimetno Web
--  👨‍🎓 Estudando Inglês avançado
--  😄 Pronouns: Ele/Dele
+<h3 align="center">  <br>
 
+Olá, eu sou o Douglas! 🇧🇷
+<br>
+
+</h3>
+
+```
+Estudante de Analise e Desenvolvimento de Sistemas pela Anhanguera.
+sou apaixonado por computação desde criança e atualmente tenho me dedicado a me tornar um desenvolvedor front-End.
+```
+## Tecnologias que estou estudando atualmente 💻
+
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Bootstrap 4 & Design responsivo 
+  
+  
+  
 <div align="center">
   <a href="https://github.com/dwmartins">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dwmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
