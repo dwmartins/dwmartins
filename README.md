@@ -5,10 +5,8 @@ Olá, eu sou o Douglas! 🇧🇷
 
 </h3>
 
-```
-Estudante de Analise e Desenvolvimento de Sistemas pela Anhanguera.
-sou apaixonado por computação desde criança e atualmente tenho me dedicado a me tornar um desenvolvedor front-End.
-```
+Residente de Agudos, SP. Tenho 23 anos, atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack. Busco a cada dia mais aprender coisas novas para eu poder me desenvolver profissionalmente. Hoje estou estudando desenvolvimento Web e Inglês para a melhoria na minha carreira profissional, e cursando Analise e Desenvolvimento de Sistemas. Meu objetivo é transformar o mundo através da tecnologia. Atualmente em busca de estágio.
+
 ## Tecnologias que estou estudando atualmente 💻
 
   - HTML5
