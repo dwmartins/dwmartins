@@ -13,6 +13,11 @@ Residente de Agudos, SP. Tenho 23 anos, atualmente tenho me dedicado a me tornar
   - CSS3
   - JavaScript
   - Bootstrap 4 & Design responsivo 
+  - TypeScript
+  - PHP
+  - MySQL
+  - Node
+  - React
   
   
   
