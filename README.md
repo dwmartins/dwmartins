@@ -10,14 +10,13 @@ Residente de Agudos, SP. Tenho 23 anos, atualmente tenho me dedicado a me tornar
 ## Tecnologias que estou estudando atualmente 💻
 
   - HTML5
-  - CSS3
+  - CSS3 + Bulma
   - JavaScript
   - Bootstrap 4 & Design responsivo 
-  - TypeScript
-  - PHP
-  - MySQL
-  - Node
+  - Javascript moderno (ES6+)
   - React
+  - NodeJs + MongoDB
+  - MySQL
   
   
   
