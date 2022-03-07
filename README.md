@@ -5,19 +5,21 @@ Olá, eu sou o Douglas! 🇧🇷
 
 </h3>
 
-Residente de Agudos, SP. Tenho 23 anos, atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack. Busco a cada dia mais aprender coisas novas para eu poder me desenvolver profissionalmente. Hoje estou estudando desenvolvimento Web e Inglês para a melhoria na minha carreira profissional, e cursando Analise e Desenvolvimento de Sistemas. Meu objetivo é transformar o mundo através da tecnologia. Atualmente em busca de estágio.
+Olá, meu nome é Douglas Wellington Martins, residente de Agudos, SP. Tenho 23 anos, Já tenho habilidades com o Front end, e atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack. Busco a cada dia mais aprender coisas novas para eu poder me desenvolver profissionalmente. Hoje estou estudando desenvolvimento Web e Inglês para a melhoria na minha carreira profissional, e cursando Analise e Desenvolvimento de Sistemas. Meu objetivo é transformar o mundo através da tecnologia. Atualmente estou em transição de carreira, em busca de estágio ou de um cargo como Front end.
 
-## Tecnologias que estou estudando atualmente 💻
+## Atualmente tenho conhcecimentos com: 💻
 
   - HTML5
-  - CSS3 + Bulma
+  - CSS3
   - JavaScript
-  - Bootstrap 4 & Design responsivo 
+  - Bootstrap
   - Javascript moderno (ES6+)
-  - React
+
+## Tecnologias que estou estudando atualmente:
+  - ReactJs
   - NodeJs + MongoDB
-  - MySQL
-  
+
+##
   
   
 <div align="center">
@@ -26,15 +28,10 @@ Residente de Agudos, SP. Tenho 23 anos, atualmente tenho me dedicado a me tornar
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwmartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
   
 ##
  
-<div> 
+<div align="center"> 
   
   <a href="https://instagram.com/douglaswmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "douglas5422@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
