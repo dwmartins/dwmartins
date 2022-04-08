@@ -16,8 +16,8 @@ Olá, meu nome é Douglas Wellington Martins, residente de Agudos, SP. Tenho 23 
   - Javascript moderno (ES6+)
 
 ## Tecnologias que estou estudando atualmente:
-  - ReactJs
-  - NodeJs + MongoDB
+  - PHP
+  - MySQL
 
 ##
   
