@@ -18,6 +18,8 @@ Olá, meu nome é Douglas Wellington Martins, residente de Agudos, SP. Tenho 23 
 ## Tecnologias que estou estudando atualmente:
   - PHP
   - MySQL
+  - Ionic
+  - DevOps
 
 ##
   
