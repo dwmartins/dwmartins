@@ -5,7 +5,7 @@ Olá, eu sou o Douglas! 🇧🇷
 
 </h3>
 
-Olá, meu nome é Douglas Wellington Martins, residente de Agudos, SP. Tenho 23 anos, Já tenho habilidades com o Front end, e atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack. Busco a cada dia mais aprender coisas novas para eu poder me desenvolver profissionalmente. Hoje estou estudando desenvolvimento Web e Inglês para a melhoria na minha carreira profissional, e cursando Analise e Desenvolvimento de Sistemas. Meu objetivo é transformar o mundo através da tecnologia. Atualmente estou em transição de carreira, em busca de estágio ou de um cargo como Front end.
+Olá, meu nome é Douglas Wellington Martins, residente de Agudos, SP. Tenho 24 anos, Já tenho habilidades com o Front end, e atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack. Busco a cada dia mais aprender coisas novas para eu poder me desenvolver profissionalmente. Hoje estou estudando desenvolvimento Web e Inglês para a melhoria na minha carreira profissional, e cursando Analise e Desenvolvimento de Sistemas. Meu objetivo é transformar o mundo através da tecnologia. Atualmente estou em transição de carreira, em busca de estágio ou de um cargo como Front end.
 
 ## Atualmente tenho conhcecimentos com: 💻
 
