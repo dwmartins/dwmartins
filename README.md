@@ -5,7 +5,7 @@ Olá, eu sou o Douglas! 🇧🇷
 
 </h3>
 
-Desenvolvedor de Software Full Stack com experiência abrangente em tecnologias web, desde o front-end com HTML, CSS, Bootstrap, JavaScript, AngularJS, jQuery, Angular e TypeScript, até o back-end com PHP, NodeJS, Sequelize e MySQL. Além de tecnologias de versionamento de códigos, como Git, GitHub e GitLab. Minha trajetória profissional se baseia na entrega de aplicações escaláveis e robustas, combinando criatividade e resolução de problemas. Estou sempre buscando aprender novas tecnologias e abordagens para desenvolvimento, a fim de proporcionar aos usuários a melhor experiência possível.
+Desenvolvedor de Software Full Stack com experiência abrangente em tecnologias web, desde o front-end com <strong>HTML, CSS, Bootstrap, JavaScript, AngularJS, jQuery, Angular e TypeScript</strong>, até o back-end com <strong>PHP, NodeJS, Sequelize e MySQL</strong>. Além de tecnologias de versionamento de códigos, como <strong>Git, GitHub e GitLab</strong>. Minha trajetória profissional se baseia na entrega de aplicações escaláveis e robustas, combinando criatividade e resolução de problemas. Estou sempre buscando aprender novas tecnologias e abordagens para desenvolvimento, a fim de proporcionar aos usuários a melhor experiência possível.
   
 ##
   
