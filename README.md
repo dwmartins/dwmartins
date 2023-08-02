@@ -5,18 +5,7 @@ Olá, eu sou o Douglas! 🇧🇷
 
 </h3>
 
-Olá, meu nome é Douglas Wellington Martins, residente de Agudos, SP. Tenho 24 anos, Já tenho habilidades com o Front end, e atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack. Busco a cada dia mais aprender coisas novas para eu poder me desenvolver profissionalmente. Hoje estou estudando desenvolvimento Web e Inglês para a melhoria na minha carreira profissional, e cursando Analise e Desenvolvimento de Sistemas. Meu objetivo é transformar o mundo através da tecnologia. Atualmente estou em transição de carreira, em busca de estágio ou de um cargo como Front end.
-
-## Atualmente tenho conhcecimentos com: 💻
-
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Bootstrap
-
-## Tecnologias que estou estudando atualmente:
-  - Nodejs
-  - MySQL
+Desenvolvedor de Software Full Stack com experiência abrangente em tecnologias web, desde o front-end com HTML, CSS, Bootstrap, JavaScript, AngularJS, jQuery, Angular e TypeScript, até o back-end com PHP, NodeJS, Sequelize e MySQL. Além de tecnologias de versionamento de códigos, como Git, GitHub e GitLab. Minha trajetória profissional se baseia na entrega de aplicações escaláveis e robustas, combinando criatividade e resolução de problemas. Estou sempre buscando aprender novas tecnologias e abordagens para desenvolvimento, a fim de proporcionar aos usuários a melhor experiência possível.
   
 ##
   
